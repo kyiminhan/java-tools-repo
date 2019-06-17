@@ -1,0 +1,33 @@
+Java Note for eclipse
+
+Auto Doc
+type default
+/**
+ * 
+ * The ${e.getType().fu()} ${e}.<BR>
+ * @author ${user} <BR>
+ * @version 1.0 <BR>
+ * @since ${date} <BR>
+ * ${project_name} system <BR>
+ * ${package_name} <BR>
+ * ${file_name} <BR>
+ * 
+ *
+ */
+
+return other
+/**
+ * ${e.g(2).rsfu()}.
+ * 
+ * @return ${e.g(1)}
+ */
+
+
+http://jautodoc.sourceforge.net/update/
+http://www.objectaid.com/update/current
+http://propedit.sourceforge.jp/eclipse/updates/
+
+http://findbugs.cs.umd.edu/eclipse
+https://checkstyle.org/eclipse-cs/update
+
+-javaagent:../Eclipse/lombok.jar
